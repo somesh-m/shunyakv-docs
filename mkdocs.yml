@@ -1,5 +1,5 @@
 site_name: Shunya KV Documentation
-site_url: https://somesh-m.github.io/shunyakv/docs/
+site_url: https://www.shunyakv.com/
 site_description: ShunyaKV is a high-performance shared-nothing key-value store built with C++17, Seastar, designed for low-latency caching and high-throughput workloads.
 site_author: Somesh Mohan
 
