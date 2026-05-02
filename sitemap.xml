@@ -1,31 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-         <loc>https://somesh-m.github.io/shunyakv/docs/</loc>
+         <loc>https://www.shunyakv.com/</loc>
          <lastmod>2026-05-02</lastmod>
     </url>
     <url>
-         <loc>https://somesh-m.github.io/shunyakv/docs/dpdk_client_connection/</loc>
+         <loc>https://www.shunyakv.com/dpdk_client_connection/</loc>
          <lastmod>2026-05-02</lastmod>
     </url>
     <url>
-         <loc>https://somesh-m.github.io/shunyakv/docs/installation/</loc>
+         <loc>https://www.shunyakv.com/installation/</loc>
          <lastmod>2026-05-02</lastmod>
     </url>
     <url>
-         <loc>https://somesh-m.github.io/shunyakv/docs/perf/</loc>
+         <loc>https://www.shunyakv.com/perf/</loc>
          <lastmod>2026-05-02</lastmod>
     </url>
     <url>
-         <loc>https://somesh-m.github.io/shunyakv/docs/redis_compare/</loc>
+         <loc>https://www.shunyakv.com/redis_compare/</loc>
          <lastmod>2026-05-02</lastmod>
     </url>
     <url>
-         <loc>https://somesh-m.github.io/shunyakv/docs/architecture/</loc>
+         <loc>https://www.shunyakv.com/architecture/</loc>
          <lastmod>2026-05-02</lastmod>
     </url>
     <url>
-         <loc>https://somesh-m.github.io/shunyakv/docs/architecture/arch_dpdk/</loc>
+         <loc>https://www.shunyakv.com/architecture/arch_dpdk/</loc>
          <lastmod>2026-05-02</lastmod>
     </url>
 </urlset>
