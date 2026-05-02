@@ -1,4 +1,5 @@
 site_name: Shunya KV Documentation
+site_url: https://somesh-m.github.io/shunyakv/docs/
 nav:
   - Home: index.md
   - Documentation:
