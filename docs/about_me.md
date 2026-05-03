@@ -26,4 +26,4 @@ If ShunyaKV interests you, feel free to check out the repository, open an issue,
 
 - **GitHub:** [github.com/somesh-m](https://github.com/somesh-m)
 - **ShunyaKV Repository:** [github.com/somesh-m/shunya-kv](https://github.com/somesh-m/shunya-kv)
-- **Email:** somesh.m@gmail.com | somesh557@gmail.com
+- **Email:** somesh.mhn@gmail.com | somesh557@gmail.com
