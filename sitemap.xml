@@ -2,30 +2,34 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://www.shunyakv.com/</loc>
-         <lastmod>2026-05-02</lastmod>
+         <lastmod>2026-05-03</lastmod>
+    </url>
+    <url>
+         <loc>https://www.shunyakv.com/about_me/</loc>
+         <lastmod>2026-05-03</lastmod>
     </url>
     <url>
          <loc>https://www.shunyakv.com/dpdk_client_connection/</loc>
-         <lastmod>2026-05-02</lastmod>
+         <lastmod>2026-05-03</lastmod>
     </url>
     <url>
          <loc>https://www.shunyakv.com/installation/</loc>
-         <lastmod>2026-05-02</lastmod>
+         <lastmod>2026-05-03</lastmod>
     </url>
     <url>
          <loc>https://www.shunyakv.com/perf/</loc>
-         <lastmod>2026-05-02</lastmod>
+         <lastmod>2026-05-03</lastmod>
     </url>
     <url>
          <loc>https://www.shunyakv.com/redis_compare/</loc>
-         <lastmod>2026-05-02</lastmod>
+         <lastmod>2026-05-03</lastmod>
     </url>
     <url>
          <loc>https://www.shunyakv.com/architecture/</loc>
-         <lastmod>2026-05-02</lastmod>
+         <lastmod>2026-05-03</lastmod>
     </url>
     <url>
          <loc>https://www.shunyakv.com/architecture/arch_dpdk/</loc>
-         <lastmod>2026-05-02</lastmod>
+         <lastmod>2026-05-03</lastmod>
     </url>
 </urlset>
