@@ -963,10 +963,10 @@ docker build -f Dockerfile -t shunyakv:x86_64 .
 </code></pre>
 <h3 id="use-prebuilt-image">Use Prebuilt Image</h3>
 <p>To get started quickly without building locally:</p>
-<pre><code class="language-bash">docker pull shunyalabs/shunyakv:latest
+<pre><code class="language-bash">docker pull shunyakv/shunyakv:latest
 </code></pre>
 <p>For the current beta release:</p>
-<pre><code class="language-bash">docker pull shunyalabs/shunyakv:0.1.1
+<pre><code class="language-bash">docker pull shunyakv/shunyakv:0.1.1
 </code></pre>
 <hr />
 <h2 id="starting-shunyakv">▶️ Starting ShunyaKV</h2>
@@ -974,7 +974,7 @@ docker build -f Dockerfile -t shunyakv:x86_64 .
 <pre><code class="language-bash">sudo docker run --rm -it --privileged \
   -p 60111:60111 \
   -v &quot;$PWD/config.conf:/config.conf:ro&quot; \
-  shunyalabs/shunyakv:latest
+  shunyakv/shunyakv:latest
 </code></pre>
 <p><strong>Optional flags:</strong></p>
 <ul>
@@ -989,7 +989,7 @@ docker build -f Dockerfile -t shunyakv:x86_64 .
 <pre><code class="language-bash">sudo docker run --rm -it --privileged \
   -p 60111:60111 \
   -v &quot;$PWD/config.conf:/config.conf:ro&quot; \
-  shunyalabs/shunyakv:latest \
+  shunyakv/shunyakv:latest \
   --network-stack native --dpdk-pmd --poll-mode
 </code></pre>
 <p>This mode enables high-performance packet processing using DPDK.</p>
